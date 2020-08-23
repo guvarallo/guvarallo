@@ -5,9 +5,9 @@ Welcome! My name is Gustavo Varallo, I'm a software engineer and many other thin
 Check out my website for more info about me: [varallo.me](http://www.varallo.me). 
 
 ### Technologies & Tools
-![](https://img.shields.io/badge/‎-Linux-FCC624?logo=linux&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-Linux-E95420?logo=linux&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-HTML-E34F26?logo=html5&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-HTML-CC342D?logo=html5&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-CSS-1572B6?logo=css3&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-React-61DAFB?logo=react&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-Redux-764ABC?logo=redux&logoColor=white&style=plastic)
@@ -17,7 +17,7 @@ Check out my website for more info about me: [varallo.me](http://www.varallo.me)
 ![](https://img.shields.io/badge/‎-PostgreSQL-336791?logo=postgresql&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-TypeScript-007ACC?logo=typescript&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-Ruby-CC342D?logo=ruby&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-Ruby-DD0000?logo=ruby&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-Heroku-430098?logo=heroku&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-Git-F05032?logo=git&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-GitHub-181717?logo=github&logoColor=white&style=plastic)
