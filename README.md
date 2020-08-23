@@ -1,10 +1,10 @@
 # Gus Varallo
-Welcome! My name is Gustavo Varallo, I'm a software engineer and many other things =)
+Welcome! My name is Gustavo Varallo, I'm a software engineer and many other things =).
 
 ## About me
-Check out my website for more info about me: [varallo.me](http://www.varallo.me) 
+Check out my website for more info about me: [varallo.me](http://www.varallo.me). 
 
-### 🔧 Technologies & Tools
+### Technologies & Tools
 ![](https://img.shields.io/badge/Linux-blue?logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-blue?logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/HTML-blue?logo=html5&logoColor=white)
@@ -23,6 +23,6 @@ Check out my website for more info about me: [varallo.me](http://www.varallo.me)
 ![](https://img.shields.io/badge/GitHub-blue?logo=github&logoColor=white)
 ![](https://img.shields.io/badge/VS%20Code-blue?logo=visual-studio-code&logoColor=white)
 
-### &#x1f4c8; GitHub Stats
+### GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guvarallo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guvarallo&hide=issues,stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
