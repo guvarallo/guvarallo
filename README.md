@@ -1,9 +1,8 @@
 # Gus Varallo
-Hey there! My name is Gustavo Varallo and I'm a software engineer from Brazil <span>&#x1f1e7;&#x1f1f7;</span>
+Hey there! My name is Gustavo Varallo and I'm a software engineer and many other things =)
 
 ## About me
-Check out my website for more info about me:</br>
-[![Website Badge](https://img.shields.io/badge/varallo.me-red?logoColor=white&style=flat&logo=google-chrome)](http://www.varallo.me) 
+Check out my website for more info about me: [varallo.me](http://www.varallo.me) 
 
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Linux-blue?logo=linux&logoColor=white)
