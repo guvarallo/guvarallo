@@ -25,4 +25,4 @@ Check out my website for more info about me: [varallo.me](http://www.varallo.me)
 
 ## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guvarallo&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guvarallo&hide=issues,stars&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guvarallo&hide=issues,stars&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
