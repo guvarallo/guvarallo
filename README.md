@@ -1,7 +1,5 @@
 # Gus Varallo
-Hey there! My name is Gustavo Varallo and I'm a software engineer from Brazil. Please read more about me at my website:
-
-[![Website Badge](https://img.shields.io/badge/varallo.me-red?logoColor=white&style=for-the-badge&logo=google-chrome)](http://www.varallo.me) 
+Hey there! My name is Gustavo Varallo and I'm a software engineer from Brazil. Please read more about me at my website: [![Website Badge](https://img.shields.io/badge/varallo.me-red?logoColor=white&style=flat&logo=google-chrome)](http://www.varallo.me) 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Linux-blue?logo=linux&logoColor=white)
@@ -20,6 +18,7 @@ Hey there! My name is Gustavo Varallo and I'm a software engineer from Brazil. P
 ![](https://img.shields.io/badge/Heroku-blue?logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/Git-blue?logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-blue?logo=github&logoColor=white)
+![](https://img.shields.io/badge/VS%20Code-blue?logo=visual-studio-code&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guvarallo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
