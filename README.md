@@ -1,5 +1,5 @@
 # Gus Varallo
-Hey there! My name is Gustavo Varallo and I'm a software engineer and many other things =)
+Welcome! My name is Gustavo Varallo, I'm a software engineer and many other things =)
 
 ## About me
 Check out my website for more info about me: [varallo.me](http://www.varallo.me) 
