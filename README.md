@@ -4,7 +4,7 @@ Welcome! My name is Gustavo Varallo, I'm a software engineer and many other thin
 ## About me
 Check out my website for more info about me: [varallo.me](http://www.varallo.me). 
 
-### Technologies & Tools
+## Technologies & Tools
 ![](https://img.shields.io/badge/‎-Linux-E95420?logo=linux&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-HTML-CC342D?logo=html5&logoColor=white&style=plastic)
@@ -23,6 +23,6 @@ Check out my website for more info about me: [varallo.me](http://www.varallo.me)
 ![](https://img.shields.io/badge/‎-GitHub-181717?logo=github&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
 
-### GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guvarallo&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guvarallo&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guvarallo&hide=issues,stars&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
