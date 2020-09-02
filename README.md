@@ -34,3 +34,7 @@ Check out my website for more info about me: [varallo.me](http://www.varallo.me)
 ## Repos
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guvarallo&repo=facerecognition)](https://github.com/guvarallo/facerecognition)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guvarallo&repo=facerecognition-api)](https://github.com/guvarallo/facerecognition-api)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guvarallo&repo=gobarber-backend)](https://github.com/guvarallo/gobarber-backend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guvarallo&repo=githubexplorer)](https://github.com/guvarallo/githubexplorer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guvarallo&repo=ravenous)](https://github.com/guvarallo/ravenous)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guvarallo&repo=Jamming)](https://github.com/guvarallo/Jamming)
