@@ -30,3 +30,7 @@ Check out my website for more info about me: [varallo.me](http://www.varallo.me)
 ## GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guvarallo&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guvarallo&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
+
+## Repos
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guvarallo&repo=facerecognition)](https://github.com/guvarallo/facerecognition)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guvarallo&repo=facerecognition-api)](https://github.com/guvarallo/facerecognition-api)
