@@ -28,13 +28,13 @@ Check out my website for more info about me: [varallo.me](http://www.varallo.me)
 ![](https://img.shields.io/badge/‎-Jest-C21325?logo=jest&logoColor=white&style=plastic)
 
 ## GitHub Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guvarallo&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guvarallo&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guvarallo&hide=issues&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guvarallo&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Repos
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guvarallo&repo=facerecognition)](https://github.com/guvarallo/facerecognition)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guvarallo&repo=facerecognition-api)](https://github.com/guvarallo/facerecognition-api)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guvarallo&repo=gobarber-backend)](https://github.com/guvarallo/gobarber-backend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guvarallo&repo=githubexplorer)](https://github.com/guvarallo/githubexplorer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guvarallo&repo=ravenous)](https://github.com/guvarallo/ravenous)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guvarallo&repo=Jamming)](https://github.com/guvarallo/Jamming)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guvarallo&repo=facerecognition&theme=react)](https://github.com/guvarallo/facerecognition)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guvarallo&repo=facerecognition-api&theme=react)](https://github.com/guvarallo/facerecognition-api)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guvarallo&repo=gobarber-backend&theme=react)](https://github.com/guvarallo/gobarber-backend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guvarallo&repo=githubexplorer&theme=react)](https://github.com/guvarallo/githubexplorer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guvarallo&repo=ravenous&theme=react)](https://github.com/guvarallo/ravenous)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guvarallo&repo=Jamming&theme=react)](https://github.com/guvarallo/Jamming)
