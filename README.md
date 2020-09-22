@@ -30,5 +30,5 @@ Check out my website for more info about me: [varallo.me](http://www.varallo.me)
 ![](https://img.shields.io/badge/‎-Jest-C21325?logo=jest&logoColor=white&style=plastic)
 
 ## GitHub Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guvarallo&hide=issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guvarallo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guvarallo)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guvarallo)](https://github.com/anuraghazra/github-readme-stats)
