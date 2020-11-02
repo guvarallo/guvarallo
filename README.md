@@ -1,6 +1,9 @@
 # Gus Varallo
 Welcome! My name is Gustavo Varallo, I'm a software engineer and many other things =).
 
+## Expertise
+I am a JavaScript specialist (including its' libraries such as React, and its' runtime such as Node).
+
 ## About me
 Check out my website for more info about me: [varallo.me](http://www.varallo.me). 
 
