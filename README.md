@@ -7,7 +7,7 @@ Check out my website for more info about me: [varallo.me](http://www.varallo.me)
 ## Expertise
 I am a JavaScript specialist (including its' libraries such as React, and its' runtime such as Node).
 
-## Technologies & Tools I use
+## Technologies & Tools
 ![](https://img.shields.io/badge/‎-Linux-E95420?logo=linux&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-TypeScript-007ACC?logo=typescript&logoColor=white&style=plastic)
