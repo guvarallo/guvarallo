@@ -1,8 +1,8 @@
 # Gus Varallo
-Welcome! My name is Gustavo Varallo, I'm a software engineer and many other things =).
+Welcome! My name is Gustavo Varallo, I'm a software engineer and many other things =)
 
 ## About me
-Check out my website for more info about me: [varallo.me](http://www.varallo.me). 
+Check out my website for more info about me: [varallo.me](http://www.varallo.me)
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/‎-Linux-E95420?logo=linux&logoColor=white&style=plastic)
