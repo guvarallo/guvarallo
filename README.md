@@ -32,4 +32,3 @@ Check out my website for more info about me: [varallo.me](http://www.varallo.me)
 
 ## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guvarallo&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Gustavo's github stats](https://github-readme-stats.vercel.app/api?username=guvarallo&theme=react&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
